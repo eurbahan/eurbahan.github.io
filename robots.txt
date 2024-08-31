@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eurbahan.github.io/sitemap.html.gz
+Sitemap: https://eurbahan.github.io/app/sitemap.html.gz
+Sitemap: https://eurbahan.github.io/assets/sitemap.html.gz
+Sitemap: https://eurbahan.github.io/css/sitemap.html.gz
+Sitemap: https://eurbahan.github.io/includes/sitemap.html.gz
+Sitemap: https://eurbahan.github.io/item/sitemap.html.gz
+Sitemap: https://eurbahan.github.io/src/sitemap.html.gz
